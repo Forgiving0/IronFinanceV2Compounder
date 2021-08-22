@@ -1,6 +1,7 @@
 # IronFinanceV2Compounder
 for https://app.iron.finance
 **onlyOwner compounding contract for the IronSwap IS3USD stablecoin LP farm**
+- Note: unaudited. transferOwnership not possible.
 
 input `0` for the '\_pid' upon deployment to access the IS3USD IronChef farm.
 
